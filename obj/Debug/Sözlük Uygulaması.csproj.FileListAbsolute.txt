@@ -1,0 +1,10 @@
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sözlük Uygulaması\Sözlük Uygulaması\bin\Debug\Sözlük Uygulaması.exe.config
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sözlük Uygulaması\Sözlük Uygulaması\bin\Debug\Sözlük Uygulaması.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sözlük Uygulaması\Sözlük Uygulaması\bin\Debug\Sözlük Uygulaması.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sözlük Uygulaması\Sözlük Uygulaması\obj\Debug\Sözlük Uygulaması.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sözlük Uygulaması\Sözlük Uygulaması\obj\Debug\Sözlük_Uygulaması.Form1.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sözlük Uygulaması\Sözlük Uygulaması\obj\Debug\Sözlük_Uygulaması.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sözlük Uygulaması\Sözlük Uygulaması\obj\Debug\Sözlük Uygulaması.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sözlük Uygulaması\Sözlük Uygulaması\obj\Debug\Sözlük Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sözlük Uygulaması\Sözlük Uygulaması\obj\Debug\Sözlük Uygulaması.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sözlük Uygulaması\Sözlük Uygulaması\obj\Debug\Sözlük Uygulaması.pdb
